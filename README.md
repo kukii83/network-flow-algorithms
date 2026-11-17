@@ -13,7 +13,7 @@ Group 5 Members:
 ## Edmonds-Karp Algorithm (Maximum Flow)
 
 ### Overview
-The **Edmonds-Karp algorithm** is a specialized implementation of the Ford-Fulkerson method used to compute the maximum flow in a directed flow network. Instead of selecting arbitrary augmenting paths (which can lead to inefficient execution on certain graphs), Edmonds-Karp uses **Breadth-First Search (BFS)** to always find the shortest augmenting path—measured by the fewest number of edges, from the source ($S$) to the sink ($T$).
+The **Edmonds-Karp algorithm** is a specialized implementation of the Ford-Fulkerson method used to compute the maximum flow in a directed flow network. Instead of selecting arbitrary augmenting paths (which can lead to inefficient execution on certain graphs), Edmonds-Karp uses **Breadth-First Search (BFS)** to always find the shortest augmenting path measured by the fewest number of edges, from the source ($S$) to the sink ($T$).
 
 ### Key Concepts Implemented
 * **Residual Network & Reverse Edges:** Tracks remaining edge capacities $c_f(u, v) = c(u, v) - f(u, v)$ and maintains reverse edges to allow flow cancellation/redirection when better paths are discovered.
