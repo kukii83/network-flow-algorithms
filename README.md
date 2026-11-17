@@ -139,6 +139,7 @@ D T 5
 ```
 
 Sample Output 1:
+
 <img width="710" height="480" alt="image" src="https://github.com/user-attachments/assets/dfc75326-59af-466e-837f-2f6e59ddf909" />
 
 Sample Input 2:
@@ -158,6 +159,7 @@ v4 t 4
 ```
 
 Sample Output 2:
+
 <img width="643" height="503" alt="image" src="https://github.com/user-attachments/assets/3ee3ad59-6652-4e80-8fe4-64036e0d622e" />
 
 Sample Input 3:
@@ -179,9 +181,11 @@ j3 t 1
 ```
 
 Sample Output 3:
+
 <img width="944" height="557" alt="image" src="https://github.com/user-attachments/assets/e13fa99d-662e-4d71-b7b2-1c4c34fe75d0" />
 
 ---
 ## AI Usage:
 https://claude.ai/share/1c392f5d-92f5-433c-83a6-0220a498328b
+
 https://claude.ai/share/f7a62a32-6bb7-431c-8202-5373c2ac71dd
